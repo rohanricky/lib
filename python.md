@@ -18,3 +18,5 @@
 <b>enum</b>: User defined datatypes
 
 <b>click</b>: for writing command line friendly arguments and options
+
+<b>ctypes</b>: foreign function library for python.(provides C compatible data types)
